@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         //new thing new life
 
         //test
+
+        //gogogo please success
     }
 }
